@@ -55,22 +55,22 @@ steroids.config.tabBar.tabs = [
   {
     title: "4th"
     icon: "icons/pill@2x.png"
-    location: "http://localhost/index.html"
+    location: "http://localhost/4th/index.html"
   },
   {
     title: "5th"
     icon: "icons/telescope@2x.png"
-    location: "http://localhost/index.html"
+    location: "http://localhost/5th/index.html"
   }
   {
     title: "6th"
     icon: "icons/pill@2x.png"
-    location: "http://localhost/index.html"
+    location: "http://localhost/6th/index.html"
   },
   {
     title: "7/8th"
     icon: "icons/pill@2x.png"
-    location: "http://localhost/index.html"
+    location: "http://localhost/7th/index.html"
   },
 ]
 
