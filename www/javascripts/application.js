@@ -1,5 +1,5 @@
-function show() {
-  var webView = new steroids.views.WebView("show.html");
+function syllabus3rd() {
+  var webView = new steroids.views.WebView("http://localhost/3rd/show.html");
   steroids.layers.push(webView);
 }
 

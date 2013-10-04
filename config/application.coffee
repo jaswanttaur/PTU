@@ -8,7 +8,7 @@
 #
 # to create a cloud-deployed build of your app.
 
-steroids.config.name = "Steroids Academy: Tabs"
+steroids.config.name = "PTU CSE Syllabus Guide"
 
 # -- Location: steroids.config.location --
 # Defines the location of the HTML document that Steroids will load when your app starts.
@@ -50,7 +50,7 @@ steroids.config.tabBar.tabs = [
   {
     title: "3rd"
     icon: "icons/pill@2x.png"
-    location: "http://localhost/index.html"
+    location: "http://localhost/3rd/index.html"
   },
   {
     title: "4th"
